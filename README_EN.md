@@ -6,7 +6,7 @@
 ### Before starting...
 
 ```
-		This is a complete guide step by step for the Born2Broot project at 42 school.
+		This is a complete guide step by step for the Born2beroot project at 42 school.
 		You should not take everything here for granted, and do your own research.
 		Thank you in advance for using this guide. 
 ```
